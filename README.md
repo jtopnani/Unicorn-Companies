@@ -4,7 +4,9 @@
 
 ## Problem Statement
 
-This dashboard conveys insights related to unicorn companies.There are three pages in the report, 
+This dashboard conveys insights related to unicorn companies.
+
+There are three pages in the report, 
 
 First page conveys details of a given unicorn when selected using a slicer, 
 
