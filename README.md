@@ -8,6 +8,6 @@ This dashboard conveys insights related to unicorn companies.There are three pag
 
 1st page conveys details of a given unicorn when selected using a slicer, 
 
-2nd page gives a description of top 5 countries with highest number of unicorns, top 5 unicorns by valuation, top 3 industries by valuation & funding, & number of unicorns by year.
+2nd page gives a description of top 5 countries with highest number of unicorns, top 5 unicorns by valuation, top 3 industries by valuation & top 3 industries by funding, & number of unicorns by year.
 
 3rd page details unicorns in which a given investor has invested.
