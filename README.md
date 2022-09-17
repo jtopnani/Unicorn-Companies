@@ -12,6 +12,6 @@ First page conveys details of a given unicorn company when selected using a slic
 
 Second page gives a description of top 5 countries with highest number of unicorns, top 5 unicorns by valuation, top 3 industries by valuation, top 3 industries by funding & number of unicorns by year.
 
-Third page details unicorns in which a given investor has invested.
+Third page gives the detail of unicorns in which a given investor has invested.
 
 ### Steps followed 
