@@ -29,7 +29,6 @@ Third page gives the detail of unicorns in which a given investor has invested.
 - Step 9 : On first page of report a slicer was added for selecting particular company name,five cards were added and a table was added to show the names of the investors & a map visual was also added to show the names of the city.
 - Step 10 : Under the insert tab using image option in report view an image was added on the first page.
 
- # Report Snapshot (Power BI DESKTOP)
 - Step 11: On the second page following visuals were used to convey insights,
  A bar chart showing top 5 countries with highest number of unicorns.
  A column chart showing top 5 unicorns by valuation.
@@ -41,3 +40,6 @@ Third page gives the detail of unicorns in which a given investor has invested.
       (c) A multi row card was used to show top 3 industries by funding
       
 - Step 11: Third page consists of a filled map along with a multi row card to show company names and a slicer to select any particular investor.
+
+ # Report Snapshot (Power BI DESKTOP)
+
