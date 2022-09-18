@@ -61,36 +61,36 @@ A report consisting of three pages was created & following inferences were drawn
 
 ### 1) Top 5 Countries with Highest Number of Unicorns
        
-       (a)
-       (b)
-       (c)
-       (d)
-       (e)
+       (a) United States (1621)
+       (b) China (486)
+       (c) India (193)
+       (d) United Kingdom (116)
+       (e) Germany (71)
        
-### 2) Top 5 Unicorns by valuation
+### 2) Top 5 Unicorns by valuation (Billion $)
 
-       (a) 
-       (b)
-       (c)
-       (d)
-       (e)
+       (a) Bytedance (180)
+       (b) Shien (100)
+       (c) SpaceX (100)
+       (d) Stripe (95)
+       (e) Klarna (46)
        
 ### 3) Number Of Unicorns by year
 
        (a) Highest number of companies (1519) became unicorn in year 2021.
        (b) Lowest number of companies (2) became unicorn in year 2007.
        
-### 4) Top 3 Industries by valuation
+### 4) Top 3 Industries by valuation (billion dollars)
 
-       (a) 
-       (b)
-       (c)
+       (a) Artificial Intelligence (5.34)
+       (b) Fintech (3.99)
+       (c) Internet software & services (2.94)
        
-### 5) Top 3 industries by funding
+### 5) Top 3 industries by funding (Million $)
 
-       (a)
-       (b)
-       (c)
+       (a) E-commerce & direct to customer (679.57)
+       (b) Fintech (481.78)
+       (c) Internet software & services (361.31)
 
 
 
