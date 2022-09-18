@@ -54,4 +54,8 @@ Third page gives the detail of unicorns in which a given investor has invested.
 
 ![image](https://user-images.githubusercontent.com/102996550/190891037-132326c0-a37a-4aa6-90f0-72a23deb31d1.png)
 
+# Insights
+
+A report consisting of three pages was created & following inferences were drawn,
+
 
