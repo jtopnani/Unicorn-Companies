@@ -4,6 +4,8 @@
 
 ## Problem Statement
 
+We are interested in konowing about the valuations and fundings of unicorn companie. Also a detailed analysis of industries getting funding is to be done. Several other insights to be drawn in order to know the country and city with good number of unicorns. Also we are interested in knowing the time required by companies belonging to different industries in becoming a unicorn company.
+
 This dashboard conveys insights related to unicorn companies.
 
 There are three pages in the report, 
