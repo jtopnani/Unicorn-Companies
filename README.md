@@ -56,6 +56,40 @@ Third page gives the detail of unicorns in which a given investor has invested.
 
 # Insights
 
-A report consisting of three pages was created & following inferences were drawn,
+A report consisting of three pages was created & following inferences were drawn after publishing it to Power BI service,
+
+### 1) Top 5 Countries with Highest Number of Unicorns
+       
+       (a)
+       (b)
+       (c)
+       (d)
+       (e)
+       
+### 2) Top 5 Unicorns by valuation
+
+       (a) 
+       (b)
+       (c)
+       (d)
+       (e)
+       
+### 3) Number Of Unicorns by year
+
+       (a) Highest number of companies (1519) became unicorn in year 2021.
+       (b) Lowest number of companies (2) became unicorn in year 2007.
+       
+### 4) Top 3 Industries by valuation
+
+       (a) 
+       (b)
+       (c)
+       
+### 5) Top 3 industries by funding
+
+       (a)
+       (b)
+       (c)
+
 
 
