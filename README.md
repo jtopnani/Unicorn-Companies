@@ -29,6 +29,9 @@ Third page gives the detail of unicorns in which a given investor has invested.
 - Step 11: On the second page following visuals were used to convey insights,
  A bar chart showing top 5 countries with highest number of unicorns.
  A column chart showing top 5 unicorns by valuation.
- A line chart showing number of unicorns by year.
-- A multi row card was used to show top 3 industries by valuation.
-- A multi row card was used to show top 3 industries by funding
+ 
+(a) A line chart showing number of unicorns by year.
+
+(b) A multi row card was used to show top 3 industries by valuation.
+
+(c) A multi row card was used to show top 3 industries by funding
