@@ -24,5 +24,11 @@ Third page gives the detail of unicorns in which a given investor has invested.
 - Step 6 : In the report view, under the view tab, theme was selected.
 - Step 7 : Blank records created due to presence of two consecutive delimiters were filtered out using text filter in power query editor. 
 - Step 8 : Columns named "funding" and "valuation" were textual columns, they were converted into numberical columns by using various transformation options. 
-- Step 9 : On first page of report a slicer was added for selecting particular company name,five cards were added and a table was added to show the names of the investors.
-- Step 10 : 
+- Step 9 : On first page of report a slicer was added for selecting particular company name,five cards were added and a table was added to show the names of the investors & a map visual was also added to show the names of the city.
+- Step 10 : Under the insert tab using image option in report view an image was added on the first page.
+- Step 11: On the second page following visuals were used to convey insights,
+- A bar chart showing top 5 countries with highest number of unicorns.
+- A column chart showing top 5 unicorns by valuation.
+- A line chart showing number of unicorns by year.
+- A multi row card was used to show top 3 industries by valuation.
+- A multi row card was used to show top 3 industries by funding
