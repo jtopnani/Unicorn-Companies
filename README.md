@@ -42,13 +42,16 @@ Third page gives the detail of unicorns in which a given investor has invested.
 
  # Report Snapshot (Page 1)
  
- 
+ ![image](https://user-images.githubusercontent.com/102996550/190891025-b08db603-d2f6-43c1-a440-73e2a28cf456.png)
+
  
  # Report Snapshot (Page 2)
  
- 
+ ![image](https://user-images.githubusercontent.com/102996550/190891029-64155afa-88cc-435c-8d79-3bb3ec55761e.png)
+
  
  # Report Snapshot (Page 3)
 
+![image](https://user-images.githubusercontent.com/102996550/190891037-132326c0-a37a-4aa6-90f0-72a23deb31d1.png)
 
 
