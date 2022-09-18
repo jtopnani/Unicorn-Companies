@@ -39,7 +39,7 @@ Third page gives the detail of unicorns in which a given investor has invested.
       (c) A multi row card was used to show top 3 industries by funding
       
 - Step 11: Third page consists of a filled map along with a multi row card to show company names and a slicer to select any particular investor.
-- Step 12: Also before representing city,country,continent on map, data category of these columns were changed in the report view.
+- Step 12: Also before representing "city","country" & "continent" columns on map, data category of these columns were changed in the report view.
 
  # Report Snapshot (Page 1)
  
