@@ -37,3 +37,5 @@ Third page gives the detail of unicorns in which a given investor has invested.
       (b) A multi row card was used to show top 3 industries by valuation.
 
       (c) A multi row card was used to show top 3 industries by funding
+      
+- Step 11: Third page consists of a filled map along with a multi row card to show company names and a slicer to select a particular investor.
