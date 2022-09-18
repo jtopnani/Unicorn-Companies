@@ -23,9 +23,6 @@ Third page gives the detail of unicorns in which a given investor has invested.
 - Step 5 : Also since all investors for a given company were given in one row (each investor name separated by a comma), so first of all column named "investors" was split at each occurance of delimiter in power query editor & then unpivot columns feature was used to bring all of them in one column.
 - Step 6 : In the report view, under the view tab, theme was selected.
 - Step 7 : Blank records created due to presence of two consecutive delimiters were filtered out using text filter in power query editor. 
-- Step 8 : Visual filters (Slicers) were added for four fields named "Class", "Customer Type", "Gate Location" & "Type of travel".
-- Step 9 : Two card visuals were added to the canvas, one representing average departure delay in minutes & other representing average arrival delay in minutes.
-           Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into average calculation.
-           
-           Although, by default, while calculating average, blank values are ignored.
-- Step 10 : A bar chart was also added to the report design area representing the number of satisfied & neutral/unsatisfied customers. While creating this visual, field named "Gender" was also added to the Legends bucket, thus number of customers are also seggregated according the gender. 
+- Step 8 : 
+- Step 9 : 
+- Step 10 : 
