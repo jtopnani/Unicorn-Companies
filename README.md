@@ -23,6 +23,6 @@ Third page gives the detail of unicorns in which a given investor has invested.
 - Step 5 : Also since all investors for a given company were given in one row (each investor name separated by a comma), so first of all column named "investors" was split at each occurance of delimiter in power query editor & then unpivot columns feature was used to bring all of them in one column.
 - Step 6 : In the report view, under the view tab, theme was selected.
 - Step 7 : Blank records created due to presence of two consecutive delimiters were filtered out using text filter in power query editor. 
-- Step 8 : 
-- Step 9 : 
+- Step 8 : Columns named "funding" and "valuation" were textual columns, they were converted into numberical columns by using various transformation options. 
+- Step 9 : On first page of report a slicer was added for selecting particular company name,five cards were added and a table was added to show the names of the investors.
 - Step 10 : 
