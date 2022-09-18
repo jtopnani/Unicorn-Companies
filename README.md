@@ -22,7 +22,7 @@ Third page gives the detail of unicorns in which a given investor has invested.
 - Step 4 : It was observed that in none of the columns errors & empty values were present except column named "City" in which some values were null values.
 - Step 5 : Also since all investors for a given company were given in one row (each investor name separated by a comma), so first of all column named "investors" was split at each occurance of delimiter in power query editor & then unpivot columns feature was used to bring all of them in one column.
 - Step 6 : In the report view, under the view tab, theme was selected.
-- Step 7 : Since the data contains various ratings, thus in order to represent ratings, a new visual was added using the three ellipses in the visualizations pane in report view. 
+- Step 7 : Blank records created due to presence of two consecutive delimiters were filtered out using text filter in power query editor. 
 - Step 8 : Visual filters (Slicers) were added for four fields named "Class", "Customer Type", "Gate Location" & "Type of travel".
 - Step 9 : Two card visuals were added to the canvas, one representing average departure delay in minutes & other representing average arrival delay in minutes.
            Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into average calculation.
